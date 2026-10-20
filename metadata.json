@@ -1,0 +1,6 @@
+{
+  "name": "Money Gharmint - Premium Children's Clothing",
+  "description": "Discover comfortable, playful styles made for every little moment. Premium children's boutique fashion, curated outfits, and family matching sets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
